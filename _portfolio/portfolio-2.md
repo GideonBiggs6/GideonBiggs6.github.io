@@ -5,3 +5,4 @@ collection: portfolio
 ---
 
 [Virtual Pet Sim](https://codehs.com/sandbox/id/virtual-pet-3CNn7Y/run)
+I created this program as a lab in my computer science class.
