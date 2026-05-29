@@ -5,4 +5,4 @@ excerpt: "The project is a Theatrical Mic Plot and Input Logistics Matrix for a 
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+I created this for my middle school drama club as a way to more easily view and recognize when mics should be on or off.
