@@ -4,5 +4,5 @@ excerpt: "This project is a text-based Gladiator RPG written in Python, featurin
 collection: portfolio
 ---
 
-[Gladiator Game]()
+[Gladiator Game](https://codehs.com/sandbox/id/gladiator-game-ks0vvL/run)
 I created this game because I got bored one day.
