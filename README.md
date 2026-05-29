@@ -17,4 +17,4 @@ I am a student at Richland High School. I run XC and support all other sports. I
 - Time management
 
 ## Career Goals
-I don't know yet
+Undecided
